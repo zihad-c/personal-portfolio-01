@@ -35,7 +35,6 @@ footer {
 /* ========= navbar styles ========== */
 
 .navbar {
-    /* background-color: rgba(4, 2, 99, 0.9); */
     background-color: rgba(1, 11, 38);
     position: fixed;
     z-index: 9999;
@@ -75,6 +74,10 @@ footer {
     font-weight: 500;
     text-transform: uppercase;
     color: #fff;
+}
+
+.menu ul li a:hover {
+    color: crimson;
 }
 
 section {
