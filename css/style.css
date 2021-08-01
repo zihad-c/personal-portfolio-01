@@ -84,7 +84,7 @@ section {
 /* ========= hero section styles ========= */
 
 .hero {
-    background-image: url(/images/banner-01.jpg);
+    background: #ddd;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -100,7 +100,7 @@ section {
     line-height: 3rem;
     font-weight: 500;
     text-transform: capitalize;
-    color: #fff;
+    color: #222;
 }
 
 .text-2 {
@@ -109,7 +109,7 @@ section {
     margin: 20px 0;
     font-weight: 700;
     text-transform: capitalize;
-    color: #fff;
+    color: #222;
 }
 
 .text-3 {
@@ -117,7 +117,7 @@ section {
     line-height: 3rem;
     font-weight: 500;
     text-transform: capitalize;
-    color: #fff;
+    color: #222;
     margin-bottom: 20px;
 }
 
